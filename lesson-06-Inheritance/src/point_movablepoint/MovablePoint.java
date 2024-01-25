@@ -41,11 +41,14 @@ public class MovablePoint extends Point{
         return new float[] {xSpeed, ySpeed};
 
     }
-    
+    public MovablePoint move(){
+        x = x + xSpeed;
+        y = y + ySpeed;
+        return this ;
+    }
     @Override
     public String toString() {
-        return "(" + getX() + "," + getY() + "), speed = (" + xSpeed + "," + ySpeed + ")";
+        return super.toString();
     }
-
 
 }
