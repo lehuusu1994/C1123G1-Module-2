@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c111abc-c915-4d10-a823-7ccc72e8b127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-08-Clean Code -Refactoring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_doi_ten_bien_tach_hang/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_doi_ten_bien_tach_hang/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_tach_phuong_thuc/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_tach_phuong_thuc/CylinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,42 +17,50 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2bTVdqJVzHwXAu8CfQyzj6tjjIK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/module-02-advanced-programming-with-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/module-02-advanced-programming-with-java/lesson-08-Clean Code -Refactoring/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/module-02-advanced-programming-with-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/module-02-advanced-programming-with-java/lesson-08-Clean Code -Refactoring/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizz3">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codegym.refactoring_tach_phuong_thuc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CylinderTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson-08-Clean Code -Refactoring" />
       <extension name="coverage">
@@ -74,17 +76,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateDivByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CylinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson-08-Clean Code -Refactoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.refactoring_doi_ten_bien_tach_hang.*" />
+          <option name="PATTERN" value="com.codegym.refactoring_tach_phuong_thuc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.codegym.refactoring_doi_ten_bien_tach_hang" />
-      <option name="MAIN_CLASS_NAME" value="com.codegym.refactoring_doi_ten_bien_tach_hang.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDivByZero" />
+      <option name="PACKAGE_NAME" value="com.codegym.refactoring_tach_phuong_thuc" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.refactoring_tach_phuong_thuc.CylinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testGetVolume1And2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson-08-Clean Code -Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.refactoring_tach_phuong_thuc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym.refactoring_tach_phuong_thuc" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.refactoring_tach_phuong_thuc.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume1And2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,10 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CylinderTest" />
+        <item itemvalue="JUnit.CylinderTest.testGetVolume1And2" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizz3" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz30" />
         <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +160,7 @@
       <workItem from="1706239150871" duration="15000" />
       <workItem from="1706239197429" duration="1740000" />
       <workItem from="1706241078821" duration="6000" />
+      <workItem from="1706252643275" duration="935000" />
     </task>
     <servers />
   </component>
