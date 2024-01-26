@@ -58,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizz3">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson-08-Clean Code -Refactoring" />
       <extension name="coverage">
@@ -90,8 +90,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzTest.testFizz3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson-08-Clean Code -Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.refactoring_tach_bien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym.refactoring_tach_bien" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.refactoring_tach_bien.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizz3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testFizzBuzz30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson-08-Clean Code -Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.refactoring_tach_bien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym.refactoring_tach_bien" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.refactoring_tach_bien.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzz30" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testFizz3" />
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz30" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
       </list>
