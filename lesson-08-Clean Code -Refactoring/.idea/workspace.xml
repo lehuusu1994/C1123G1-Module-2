@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c111abc-c915-4d10-a823-7ccc72e8b127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_tach_phuong_thuc/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/refactoring_tach_phuong_thuc/CylinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c111abc-c915-4d10-a823-7ccc72e8b127" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +156,7 @@
       <workItem from="1706239150871" duration="15000" />
       <workItem from="1706239197429" duration="1740000" />
       <workItem from="1706241078821" duration="6000" />
-      <workItem from="1706252643275" duration="935000" />
+      <workItem from="1706252643275" duration="1583000" />
     </task>
     <servers />
   </component>
